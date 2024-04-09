@@ -49,7 +49,9 @@ function App() {
     const found = answer.find((a) => a.members.every((o) => selected.includes(o)));
 
     if (found) {
-      setGroups(groups().concat(found));
+      const newGroups = groups().concat(found);
+      newGroups.sort((a, b) => a.level - b.level);
+      setGroups(newGroups);
       setOptions(options().filter((o) => !o.selected));
     } else {
       toast("Invalid group", { duration: 2500 })
@@ -65,13 +67,13 @@ function App() {
       <h1>{new Date(date).toLocaleDateString()}</h1>
       <div class='option-grid'>
         {groups().map((group) => (
-          <div class="group">
+          <div class={`group group-${group.level}`}>
             <p>{group.group}</p>
-            <div class="list">
+            <p class="list">
               {group.members.map((option) => (
                 <span class="option">{option}</span>
               ))}
-            </div>
+            </p>
           </div>
         ))}
         {options().map(({ option, selected }) => (
