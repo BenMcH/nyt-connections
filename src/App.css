@@ -1,8 +1,19 @@
 #root {
-  max-width: 1280px;
+  max-width: 650px;
   margin: 0 auto;
-  padding: 2rem;
+  --padding: 2rem;
+  --button-padding: 0.5rem;
+  font-size: 14px;
+  padding: var(--padding);
   text-align: center;
+  flex: 1;
+}
+
+@media screen and (max-width: 768px) {
+  #root {
+    --padding: 0;
+    --button-padding: 0.25rem;
+  }
 }
 
 main {
@@ -18,22 +29,23 @@ main {
 }
 
 .option-grid {
+  flex: 1;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(4, 1fr);
 
-  gap: 1rem;
+  gap: calc(2*var(--button-padding));
 
   &>div.option {
     aspect-ratio: 1;
-    padding: 0.5rem;
+    padding: var(--button-padding);
     border: 1px solid white;
     border-radius: 0.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    min-width: 150px;
+    min-width: 0;
 
     &.selected {
       background-color: #f0f0f0;
