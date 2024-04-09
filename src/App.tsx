@@ -30,6 +30,7 @@ function App() {
 
   const [groups, setGroups] = createSignal<typeof answer>([]);
   const [options, setOptions] = createSignal(data.map((option) => ({ option, selected: false })));
+  const [lives, setLives] = createSignal(4);
 
   function toggle(option: string) {
     const newOptions = options().map((o) => o.option === option ? { ...o, selected: !o.selected } : o);
@@ -46,6 +47,11 @@ function App() {
   function submit() {
     const selected = options().filter((o) => o.selected).map((o) => o.option);
 
+    if (selected.length < 4) {
+      toast("Select 4 options", { duration: 1000 })
+      return;
+    }
+
     const found = answer.find((a) => a.members.every((o) => selected.includes(o)));
 
     if (found) {
@@ -55,6 +61,13 @@ function App() {
       setOptions(options().filter((o) => !o.selected));
     } else {
       toast("Invalid group", { duration: 2500 })
+      setLives(lives() - 1);
+
+      if (lives() === 0) {
+        toast("Game Over", { duration: 5000 })
+        setGroups(answer)
+        setOptions([]);
+      }
     }
   }
 
@@ -82,6 +95,7 @@ function App() {
           </div>
         ))}
       </div>
+      <p>Lives Remaining: {lives()}</p>
       <div class="button-group">
         <button onClick={() => setOptions(shuffle(options()))}>Shuffle</button>
         <button onClick={deselectAll}>Deselect All</button>
