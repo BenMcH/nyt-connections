@@ -33,6 +33,7 @@ main {
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    min-width: 150px;
 
     &.selected {
       background-color: #f0f0f0;
