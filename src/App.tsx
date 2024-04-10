@@ -127,9 +127,10 @@ function App() {
         <button onClick={submit}>Submit</button>
         <Toaster />
       </div>
-
-      <a href="/">Today's Puzzle</a>
-      <a href="/?random=1">Random Puzzle</a>
+      <div class="button-group">
+        <a href="/">Today's Puzzle</a>
+        <a href="/?random=1">Random Puzzle</a>
+      </div>
       <form method="get">
         <label>
           Pick your date (After {connections[0].date})
