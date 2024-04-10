@@ -4,8 +4,6 @@ import './App.css'
 import connections from './connections.json'
 import toast, { Toaster } from 'solid-toast';
 
-const { answers: answer, date } = shuffle(connections)[0];
-
 function shuffle<T>(array: T[]): T[] {
   let currentIndex = array.length;
   const newArr = [...array];
@@ -26,6 +24,30 @@ function shuffle<T>(array: T[]): T[] {
 }
 
 function App() {
+  let { answers: answer, date } = connections[connections.length - 1];
+
+  if (document.location.search) {
+    const params = new URLSearchParams(document.location.search);
+    const queryDate = params.get('date');
+
+    if (queryDate) {
+      const puzzle = connections.find((c) => c.date === queryDate);
+
+      if (puzzle) {
+        answer = puzzle.answers;
+        date = puzzle.date;
+      }
+    }
+
+    if (params.get('random')) {
+      const puzzle = shuffle(connections)[0];
+
+      answer = puzzle.answers;
+      date = puzzle.date;
+    }
+  }
+
+  // const { answers: answer, date } = shuffle(connections)[0];
   const data = shuffle(answer.flatMap(a => a.members));
 
   const [groups, setGroups] = createSignal<typeof answer>([]);
@@ -75,9 +97,12 @@ function App() {
     setOptions(options().map((o) => ({ ...o, selected: false })));
   }
 
+  const [year, month, day] = date.split('-');
+  const dateFormatter = new Intl.DateTimeFormat('en', { month: 'long', day: 'numeric', year: 'numeric' });
+
   return (
     <main>
-      <h1>{new Date(date).toLocaleDateString()}</h1>
+      <h1>{dateFormatter.format(new Date(parseInt(year), parseInt(month) - 1, parseInt(day)))}</h1>
       <div class='option-grid'>
         {groups().map((group) => (
           <div class={`group group-${group.level}`}>
@@ -102,6 +127,16 @@ function App() {
         <button onClick={submit}>Submit</button>
         <Toaster />
       </div>
+
+      <a href="/">Today's Puzzle</a>
+      <a href="/?random=1">Random Puzzle</a>
+      <form method="get">
+        <label>
+          Pick your date (After {connections[0].date})
+          <input type="date" name="date" />
+        </label>
+        <button type="submit">Go</button>
+      </form>
     </main>
   )
 }

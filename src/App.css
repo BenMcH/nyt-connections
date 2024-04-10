@@ -89,3 +89,10 @@ p {
 .list>span:not(:last-child)::after {
   content: ', ';
 }
+
+form>label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
