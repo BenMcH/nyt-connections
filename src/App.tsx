@@ -1,8 +1,9 @@
-import { createSignal } from 'solid-js'
+import { Accessor, createComputed, createMemo, createSignal } from 'solid-js'
 import './App.css'
 
 import connections from './connections.json'
 import toast, { Toaster } from 'solid-toast';
+import { effect } from 'solid-js/web';
 
 function shuffle<T>(array: T[]): T[] {
   let currentIndex = array.length;
@@ -24,35 +25,64 @@ function shuffle<T>(array: T[]): T[] {
 }
 
 function App() {
-  let { answers: answer, date } = connections[connections.length - 1];
+  let [game, setGame] = createSignal(connections[connections.length - 1]);
+
+  const randomGame = () => setGame(shuffle(connections)[0]);
+  const todaysGame = () => setGame(connections[connections.length - 1]);
+  const datedGame = (date: string) => setGame(connections.find((c) => c.date === date) ?? game);
 
   if (document.location.search) {
     const params = new URLSearchParams(document.location.search);
     const queryDate = params.get('date');
 
     if (queryDate) {
-      const puzzle = connections.find((c) => c.date === queryDate);
-
-      if (puzzle) {
-        answer = puzzle.answers;
-        date = puzzle.date;
-      }
-    }
-
-    if (params.get('random')) {
-      const puzzle = shuffle(connections)[0];
-
-      answer = puzzle.answers;
-      date = puzzle.date;
+      datedGame(queryDate);
     }
   }
 
-  // const { answers: answer, date } = shuffle(connections)[0];
-  const data = shuffle(answer.flatMap(a => a.members));
+  const [date, setDate] = createSignal(game().date);
 
-  const [groups, setGroups] = createSignal<typeof answer>([]);
-  const [options, setOptions] = createSignal(data.map((option) => ({ option, selected: false })));
+  return (
+    <main>
+      <Game game={game} />
+      <div class="button-group">
+        <button onClick={todaysGame}>Today's Game</button>
+        <button onClick={randomGame}>Random Game</button>
+      </div>
+      <form method="get" onSubmit={(e) => {
+        e.preventDefault();
+        datedGame(date());
+      }}>
+        <label>
+          Pick your date (After {connections[0].date})
+          <input
+            type="date"
+            name="date"
+            value={date()}
+            onChange={(e) => setDate(e.currentTarget.value)}
+          />
+        </label>
+        <button type="submit">Go</button>
+      </form>
+    </main>
+  )
+}
+
+type GameData = typeof connections[number];
+
+function Game({ game }: { game: Accessor<GameData> }) {
+
+  const [groups, setGroups] = createSignal<GameData['answers']>([]);
+  const [options, setOptions] = createSignal<{ option: string; selected: boolean }[]>([]);
   const [lives, setLives] = createSignal(4);
+
+  effect(() => {
+    setGroups([]);
+    const answerKey = game().answers;
+    const data = shuffle(answerKey.flatMap(a => a.members));
+    setOptions(data.map((option) => ({ option, selected: false })));
+    setLives(4);
+  });
 
   function toggle(option: string) {
     const newOptions = options().map((o) => o.option === option ? { ...o, selected: !o.selected } : o);
@@ -70,11 +100,11 @@ function App() {
     const selected = options().filter((o) => o.selected).map((o) => o.option);
 
     if (selected.length < 4) {
-      toast("Select 4 options", { duration: 1000 })
+      toast("Select 4 options", { duration: 2500 })
       return;
     }
 
-    const found = answer.find((a) => a.members.every((o) => selected.includes(o)));
+    const found = game().answers.find((a) => a.members.every((o) => selected.includes(o)));
 
     if (found) {
       const newGroups = groups().concat(found);
@@ -87,7 +117,7 @@ function App() {
 
       if (lives() === 0) {
         toast("Game Over", { duration: 5000 })
-        setGroups(answer)
+        setGroups(game().answers)
         setOptions([]);
       }
     }
@@ -97,12 +127,16 @@ function App() {
     setOptions(options().map((o) => ({ ...o, selected: false })));
   }
 
-  const [year, month, day] = date.split('-');
-  const dateFormatter = new Intl.DateTimeFormat('en', { month: 'long', day: 'numeric', year: 'numeric' });
+  const date = createMemo(() => {
+    const [year, month, day] = game().date.split('-');
+    const dateFormatter = new Intl.DateTimeFormat('en', { month: 'long', day: 'numeric', year: 'numeric' });
+    return dateFormatter.format(new Date(parseInt(year), parseInt(month) - 1, parseInt(day)))
+  })
+
 
   return (
-    <main>
-      <h1>{dateFormatter.format(new Date(parseInt(year), parseInt(month) - 1, parseInt(day)))}</h1>
+    <>
+      <h1>{date()}</h1>
       <div class='option-grid'>
         {groups().map((group) => (
           <div class={`group group-${group.level}`}>
@@ -127,18 +161,7 @@ function App() {
         <button onClick={submit}>Submit</button>
         <Toaster />
       </div>
-      <div class="button-group">
-        <a href="/">Today's Puzzle</a>
-        <a href="/?random=1">Random Puzzle</a>
-      </div>
-      <form method="get">
-        <label>
-          Pick your date (After {connections[0].date})
-          <input type="date" name="date" />
-        </label>
-        <button type="submit">Go</button>
-      </form>
-    </main>
+    </>
   )
 }
 
