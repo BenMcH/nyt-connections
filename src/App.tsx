@@ -1,9 +1,9 @@
-import { Accessor, createComputed, createMemo, createSignal } from 'solid-js'
-import './App.css'
+import { Accessor, createMemo, createSignal, onCleanup } from 'solid-js';
+import './App.css';
 
-import connections from './connections.json'
-import toast, { Toaster } from 'solid-toast';
 import { effect } from 'solid-js/web';
+import toast, { Toaster } from 'solid-toast';
+import connections from './connections.json';
 
 function shuffle<T>(array: T[]): T[] {
   let currentIndex = array.length;
@@ -31,14 +31,21 @@ function App() {
   const todaysGame = () => setGame(connections[connections.length - 1]);
   const datedGame = (date: string) => setGame(connections.find((c) => c.date === date) ?? game);
 
-  if (document.location.search) {
-    const params = new URLSearchParams(document.location.search);
-    const queryDate = params.get('date');
+  function historyChange() {
+    if (document.location.search) {
+      const params = new URLSearchParams(document.location.search);
+      const queryDate = params.get('date');
 
-    if (queryDate) {
-      datedGame(queryDate);
+      if (queryDate) {
+        datedGame(queryDate);
+      }
     }
   }
+
+  addEventListener('popstate', historyChange);
+  onCleanup(() => removeEventListener('popstate', historyChange));
+
+  historyChange();
 
   const [date, setDate] = createSignal(game().date);
 
@@ -78,10 +85,15 @@ function Game({ game }: { game: Accessor<GameData> }) {
 
   effect(() => {
     setGroups([]);
-    const answerKey = game().answers;
+    const _game = game();
+    const answerKey = _game.answers;
     const data = shuffle(answerKey.flatMap(a => a.members));
     setOptions(data.map((option) => ({ option, selected: false })));
     setLives(4);
+
+    if (!document.location.search.includes(_game.date)) {
+      history.pushState({}, '', `?date=${_game.date}`);
+    }
   });
 
   function toggle(option: string) {
