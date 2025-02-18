@@ -28334,5 +28334,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 617,
+        "date": "2025-02-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CRATER",
+                "members": [
+                    "CAVITY",
+                    "HOLE",
+                    "HOLLOW",
+                    "PIT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ACCESSIBLE",
+                "members": [
+                    "AVAILABLE",
+                    "HANDY",
+                    "NEARBY",
+                    "READY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SUBSTANTIAL, AS A MEAL",
+                "members": [
+                    "FILLING",
+                    "HEARTY",
+                    "SOLID",
+                    "SQUARE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BRITISHISMS",
+                "members": [
+                    "BUTTY",
+                    "CHIPPY",
+                    "FOOTY",
+                    "TELLY"
+                ]
+            }
+        ]
     }
 ]
