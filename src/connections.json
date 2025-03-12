@@ -29346,5 +29346,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 639,
+        "date": "2025-03-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INGREDIENTS IN CLASSIC POUND CAKE",
+                "members": [
+                    "BUTTER",
+                    "EGGS",
+                    "FLOUR",
+                    "SUGAR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS THAT ARE RED",
+                "members": [
+                    "CARDINAL",
+                    "ELMO",
+                    "KETCHUP",
+                    "ROSE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS SAID TO HAVE NO EXACT RHYMES",
+                "members": [
+                    "MONTH",
+                    "ORANGE",
+                    "PURPLE",
+                    "SILVER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CANDY",
+                "members": [
+                    "COTTON",
+                    "EYE",
+                    "JOHN",
+                    "ROCK"
+                ]
+            }
+        ]
     }
 ]
