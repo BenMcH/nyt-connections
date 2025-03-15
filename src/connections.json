@@ -29484,5 +29484,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 642,
+        "date": "2025-03-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SHARP PROTRUSION",
+                "members": [
+                    "BARB",
+                    "BRISTLE",
+                    "NEEDLE",
+                    "SPINE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FEATURES OF STRINGED INSTRUMENTS",
+                "members": [
+                    "BRIDGE",
+                    "NECK",
+                    "PEG",
+                    "STRING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LITIGATION VERBS",
+                "members": [
+                    "CHARGE",
+                    "MOVE",
+                    "SERVE",
+                    "SUE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "IN \u201cSTAR LIGHT, STAR BRIGHT\u201d",
+                "members": [
+                    "MAY",
+                    "MIGHT",
+                    "TONIGHT",
+                    "WISH"
+                ]
+            }
+        ]
     }
 ]
