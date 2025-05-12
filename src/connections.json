@@ -32152,5 +32152,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 700,
+        "date": "2025-05-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PLACES TO FIND PAPER MONEY",
+                "members": [
+                    "ATM",
+                    "CASH REGISTER",
+                    "TIP JAR",
+                    "WALLET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "REBOUND",
+                "members": [
+                    "BANK",
+                    "BOUNCE",
+                    "CAROM",
+                    "RICOCHET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS TRACKED BY WEB ANALYTICS",
+                "members": [
+                    "CLICK",
+                    "HIT",
+                    "PAGE VIEW",
+                    "VISIT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS YOU CAN DO WITH YOUR LIPS",
+                "members": [
+                    "CURL",
+                    "PUCKER",
+                    "PURSE",
+                    "SMACK"
+                ]
+            }
+        ]
     }
 ]
