@@ -35418,5 +35418,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 771,
+        "date": "2025-07-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SASSINESS",
+                "members": [
+                    "ATTITUDE",
+                    "CHEEK",
+                    "LIP",
+                    "MOUTH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MITIGATE",
+                "members": [
+                    "CUSHION",
+                    "DAMPEN",
+                    "SOFTEN",
+                    "TEMPER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PATTERNS",
+                "members": [
+                    "CAMO",
+                    "CHECKERS",
+                    "HONEYCOMB",
+                    "STRIPES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ PIE",
+                "members": [
+                    "CHESS",
+                    "CUTIE",
+                    "HUMBLE",
+                    "WHOOPIE"
+                ]
+            }
+        ]
     }
 ]
