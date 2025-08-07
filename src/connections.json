@@ -36154,5 +36154,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 787,
+        "date": "2025-08-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MOUSE ACTIONS",
+                "members": [
+                    "CLICK",
+                    "DRAG",
+                    "HOVER",
+                    "SCROLL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PERFORATE",
+                "members": [
+                    "BORE",
+                    "PIERCE",
+                    "POKE",
+                    "PUNCH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ONES WITH POINTY EARS",
+                "members": [
+                    "BATMAN",
+                    "DEVIL",
+                    "ELF",
+                    "VULCAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WIMBLEDON WINNERS",
+                "members": [
+                    "BORG",
+                    "GRAF",
+                    "KING",
+                    "SINNER"
+                ]
+            }
+        ]
     }
 ]
