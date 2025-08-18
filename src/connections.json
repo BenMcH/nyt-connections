@@ -36660,5 +36660,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 798,
+        "date": "2025-08-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INDICATION",
+                "members": [
+                    "CUE",
+                    "NOD",
+                    "PROMPT",
+                    "SIGNAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "OPPORTUNITY",
+                "members": [
+                    "BREAK",
+                    "CHANCE",
+                    "OPENING",
+                    "SHOT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HOTEL AMENITIES",
+                "members": [
+                    "BREAKFAST",
+                    "PARKING",
+                    "POOL",
+                    "WI-FI"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \"WATCH\"",
+                "members": [
+                    "DIGITAL",
+                    "POCKET",
+                    "STOP",
+                    "WRIST"
+                ]
+            }
+        ]
     }
 ]
