@@ -37074,5 +37074,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 807,
+        "date": "2025-08-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RESTAURANT WATER OPTIONS",
+                "members": [
+                    "BOTTLED",
+                    "SPARKLING",
+                    "STILL",
+                    "TAP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ATM OPTIONS",
+                "members": [
+                    "CHECKING",
+                    "DEPOSIT",
+                    "SAVINGS",
+                    "WITHDRAWAL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BINARY QUESTION OPTIONS",
+                "members": [
+                    "FALSE",
+                    "NO",
+                    "TRUE",
+                    "YES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ROULETTE OPTIONS",
+                "members": [
+                    "BLACK",
+                    "EVEN",
+                    "ODD",
+                    "RED"
+                ]
+            }
+        ]
     }
 ]
