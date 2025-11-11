@@ -20,8 +20,8 @@ r = requests.get(URL)
 content = json.loads(r.content)
 print(f"Adding Connection #{id} from {con_date}")
 groups = []
-for group in content["categories"]:
-    categ = {"level":-1,"group":group["title"],"members":[]}
+for index, group in enumerate(content["categories"]):
+    categ = {"level":index,"group":group["title"],"members":[]}
     for member in group["cards"]:
         categ["members"].append(member["content"])
     groups.append(categ)
