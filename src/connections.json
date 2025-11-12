@@ -40616,5 +40616,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 884,
+        "date": "2025-11-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SPORTS",
+                "members": [
+                    "GOLF",
+                    "JUDO",
+                    "POLO",
+                    "SUMO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DOOFUS",
+                "members": [
+                    "BOZO",
+                    "DODO",
+                    "DOPE",
+                    "YO-YO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ACRONYMS",
+                "members": [
+                    "BOGO",
+                    "FOMO",
+                    "GOAT",
+                    "YOLO"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SPANISH WORDS",
+                "members": [
+                    "COMO",
+                    "LOCO",
+                    "POCO",
+                    "ROJO"
+                ]
+            }
+        ]
     }
 ]
