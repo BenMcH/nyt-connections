@@ -41444,5 +41444,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 902,
+        "date": "2025-11-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TOLERATE",
+                "members": [
+                    "BEAR",
+                    "STAND",
+                    "STOMACH",
+                    "SWALLOW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FLOP",
+                "members": [
+                    "BUST",
+                    "LEMON",
+                    "MISS",
+                    "TURKEY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FICTIONAL PIRATES",
+                "members": [
+                    "HOOK",
+                    "LUFFY",
+                    "SILVER",
+                    "SPARROW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN COLOR HOMOPHONES",
+                "members": [
+                    "CAMEROON",
+                    "COCKATIEL",
+                    "UNREAD",
+                    "WHISTLEBLEW"
+                ]
+            }
+        ]
     }
 ]
