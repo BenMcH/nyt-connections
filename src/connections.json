@@ -41812,5 +41812,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 910,
+        "date": "2025-12-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GOAD, WITH \"ON\"",
+                "members": [
+                    "EGG",
+                    "PUSH",
+                    "SPUR",
+                    "URGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FAMOUS STREETS IN LOS ANGELES",
+                "members": [
+                    "MULHOLLAND",
+                    "RODEO",
+                    "SUNSET",
+                    "VINE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MEMBER OF A DALLAS PRO SPORTS TEAM",
+                "members": [
+                    "COWBOY",
+                    "MAVERICK",
+                    "STAR",
+                    "WING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "EUROPEAN CAPITALS MINUS SECOND-TO-LAST LETTER",
+                "members": [
+                    "MINK",
+                    "PARS",
+                    "ROE",
+                    "SOFA"
+                ]
+            }
+        ]
     }
 ]
