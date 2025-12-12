@@ -41996,5 +41996,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 914,
+        "date": "2025-12-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONTAIN",
+                "members": [
+                    "HOLD",
+                    "HOUSE",
+                    "KEEP",
+                    "STORE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MOVE IN THE WIND",
+                "members": [
+                    "BLOW",
+                    "FLAP",
+                    "SWAY",
+                    "WAVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "VEGETABLE UNITS",
+                "members": [
+                    "BULB",
+                    "EAR",
+                    "HEAD",
+                    "SPEAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS THAT ARE DIVIDED INTO TWELVE SEGMENTS",
+                "members": [
+                    "CLOCK",
+                    "FOOT",
+                    "YEAR",
+                    "ZODIAC"
+                ]
+            }
+        ]
     }
 ]
