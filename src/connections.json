@@ -42180,5 +42180,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 918,
+        "date": "2025-12-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DANCES",
+                "members": [
+                    "BOLERO",
+                    "FOXTROT",
+                    "MAMBO",
+                    "QUICKSTEP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DESCENDANTS",
+                "members": [
+                    "BROOD",
+                    "FAMILY",
+                    "OFFSPRING",
+                    "POSTERITY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HITCHCOCK MOVIES",
+                "members": [
+                    "LIFEBOAT",
+                    "ROPE",
+                    "SPELLBOUND",
+                    "SUSPICION"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH PERCUSSION INSTRUMENTS",
+                "members": [
+                    "BELLHOP",
+                    "CHIMERA",
+                    "DRUMROLL",
+                    "RATTLESNAKE"
+                ]
+            }
+        ]
     }
 ]
