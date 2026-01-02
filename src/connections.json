@@ -42962,5 +42962,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 935,
+        "date": "2026-01-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WRITE",
+                "members": [
+                    "JOT",
+                    "LOG",
+                    "NOTE",
+                    "RECORD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SHTICK",
+                "members": [
+                    "BIT",
+                    "GAG",
+                    "NUMBER",
+                    "ROUTINE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BENCHMARK",
+                "members": [
+                    "BAR",
+                    "EXAMPLE",
+                    "METRIC",
+                    "STANDARD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "VEGETABLES MINUS STARTING LETTER",
+                "members": [
+                    "ALE",
+                    "EEK",
+                    "HIVE",
+                    "QUASH"
+                ]
+            }
+        ]
     }
 ]
