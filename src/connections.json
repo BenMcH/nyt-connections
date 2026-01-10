@@ -43330,5 +43330,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 943,
+        "date": "2026-01-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HOLLOW CYLINDERS",
+                "members": [
+                    "HOSE",
+                    "PIPE",
+                    "STRAW",
+                    "TUBE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SOFTWARE PLATFORMS",
+                "members": [
+                    "APP",
+                    "DESKTOP",
+                    "MOBILE",
+                    "WEB"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TAKE OFF",
+                "members": [
+                    "BOOK",
+                    "DIP",
+                    "JET",
+                    "SPLIT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "UNITS OF MEASURE",
+                "members": [
+                    "BAR",
+                    "GRAM",
+                    "MOLE",
+                    "VOLT"
+                ]
+            }
+        ]
     }
 ]
