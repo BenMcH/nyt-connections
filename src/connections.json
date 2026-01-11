@@ -43376,5 +43376,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 944,
+        "date": "2026-01-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GROUP",
+                "members": [
+                    "BAND",
+                    "CREW",
+                    "PACK",
+                    "TEAM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLUNGE",
+                "members": [
+                    "CRASH",
+                    "CRATER",
+                    "DROP",
+                    "TANK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PARTS OF A SINK",
+                "members": [
+                    "BASIN",
+                    "DRAIN",
+                    "FAUCET",
+                    "STOPPER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "EQUESTRIAN GEAR",
+                "members": [
+                    "BIT",
+                    "CROP",
+                    "HALTER",
+                    "SADDLE"
+                ]
+            }
+        ]
     }
 ]
