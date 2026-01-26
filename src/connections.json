@@ -44066,5 +44066,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 959,
+        "date": "2026-01-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EXPLOIT",
+                "members": [
+                    "DRAIN",
+                    "FLEECE",
+                    "MILK",
+                    "SQUEEZE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DAUNT",
+                "members": [
+                    "BUFFALO",
+                    "COW",
+                    "RATTLE",
+                    "RUFFLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ICONIC ACTRESSES",
+                "members": [
+                    "CLOSE",
+                    "FIELD",
+                    "FOSTER",
+                    "WEAVER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MAMMALS MINUS LAST LETTER",
+                "members": [
+                    "BADGE",
+                    "GOA",
+                    "MOOS",
+                    "RABBI"
+                ]
+            }
+        ]
     }
 ]
