@@ -44204,5 +44204,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 962,
+        "date": "2026-01-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MAKEUP",
+                "members": [
+                    "BRONZER",
+                    "FOUNDATION",
+                    "LINER",
+                    "STAIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FEATURED IN GOLDILOCKS AND THE THREE BEARS",
+                "members": [
+                    "BEAR",
+                    "BED",
+                    "GOLDILOCKS",
+                    "PORRIDGE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ENDING WITH DRINKING VESSELS",
+                "members": [
+                    "FIBERGLASS",
+                    "SILVERSTEIN",
+                    "SMUG",
+                    "STUMBLER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF WORDS MEANING \"BRUTAL\"",
+                "members": [
+                    "GOREY",
+                    "GRIMM",
+                    "GRIZZLY",
+                    "SCARRY"
+                ]
+            }
+        ]
     }
 ]
