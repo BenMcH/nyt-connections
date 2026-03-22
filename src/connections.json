@@ -46504,5 +46504,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1012,
+        "date": "2026-03-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OVERSEE",
+                "members": [
+                    "CHAIR",
+                    "HEAD",
+                    "LEAD",
+                    "RUN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PICTURE TAKEN FROM A FILM",
+                "members": [
+                    "FRAME",
+                    "IMAGE",
+                    "SHOT",
+                    "STILL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMPONENTS OF A WEIGHTLIFTING SETUP",
+                "members": [
+                    "BAR",
+                    "BENCH",
+                    "RACK",
+                    "WEIGHTS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ SURF",
+                "members": [
+                    "CHANNEL",
+                    "COUCH",
+                    "CROWD",
+                    "KITE"
+                ]
+            }
+        ]
     }
 ]
