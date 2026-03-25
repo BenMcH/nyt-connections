@@ -46642,5 +46642,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1015,
+        "date": "2026-03-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OBFUSCATE",
+                "members": [
+                    "BLUR",
+                    "CLOUD",
+                    "MUDDY",
+                    "OBSCURE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MAGAZINES",
+                "members": [
+                    "FORTUNE",
+                    "PEOPLE",
+                    "SPIN",
+                    "TIME"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PAYMENT METHODS",
+                "members": [
+                    "CASH",
+                    "CHARGE",
+                    "CHECK",
+                    "WIRE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "UNITS OF VOLUME WITH LAST LETTER CHANGED",
+                "members": [
+                    "CUR",
+                    "GALLOP",
+                    "PING",
+                    "QUARK"
+                ]
+            }
+        ]
     }
 ]
