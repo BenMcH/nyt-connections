@@ -47148,5 +47148,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1026,
+        "date": "2026-04-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EVENTS WITH DANCING",
+                "members": [
+                    "BALL",
+                    "HOEDOWN",
+                    "HOP",
+                    "RAVE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INTEREST",
+                "members": [
+                    "CLAIM",
+                    "CONCERN",
+                    "SHARE",
+                    "STAKE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMPONENTS OF WHAC-A-MOLE",
+                "members": [
+                    "HOLES",
+                    "MALLET",
+                    "MOLE",
+                    "TIMER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MUSICALS WITH LAST LETTER CHANGED",
+                "members": [
+                    "CAROUSER",
+                    "EVITE",
+                    "OLIVES",
+                    "WICKET"
+                ]
+            }
+        ]
     }
 ]
