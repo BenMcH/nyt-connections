@@ -47470,5 +47470,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1033,
+        "date": "2026-04-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SEEN OUTSIDE A THEATER",
+                "members": [
+                    "BOX OFFICE",
+                    "MARQUEE",
+                    "TICKET LINE",
+                    "VELVET ROPE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ACCESSORIES FOR A MAGICIAN",
+                "members": [
+                    "CAPE",
+                    "HANDKERCHIEF",
+                    "MAGIC WAND",
+                    "RABBIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TV SHOW TITLE SURNAMES",
+                "members": [
+                    "HOUSE",
+                    "LASSO",
+                    "MONTANA",
+                    "SOPRANO"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THEY HAVE CAPS",
+                "members": [
+                    "BASEBALL PLAYER",
+                    "CAMERA LENS",
+                    "MUSHROOM",
+                    "PEN"
+                ]
+            }
+        ]
     }
 ]
