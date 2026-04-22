@@ -47884,5 +47884,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1042,
+        "date": "2026-04-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "POTTERY EQUIPMENT",
+                "members": [
+                    "CLAY",
+                    "GLAZE",
+                    "KILN",
+                    "WHEEL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WALLOP",
+                "members": [
+                    "DECK",
+                    "PUNCH",
+                    "SLUG",
+                    "SOCK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS PRONOUNCED DIFFERENT WAYS AS PROPER NOUNS",
+                "members": [
+                    "HERB",
+                    "NICE",
+                    "POLISH",
+                    "READING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PICK-UP ___",
+                "members": [
+                    "ARTIST",
+                    "GAME",
+                    "STICKS",
+                    "TRUCK"
+                ]
+            }
+        ]
     }
 ]
