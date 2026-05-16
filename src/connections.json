@@ -48942,5 +48942,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1065,
+        "date": "2026-05-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GLASSWARE",
+                "members": [
+                    "COUPE",
+                    "FLUTE",
+                    "STEIN",
+                    "TUMBLER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MESS AROUND (WITH)",
+                "members": [
+                    "FIDDLE",
+                    "MESS",
+                    "PLAY",
+                    "TINKER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MUSIC PERFORMANCE DIRECTIONS",
+                "members": [
+                    "ALLEGRO",
+                    "FORTE",
+                    "LARGO",
+                    "PIANO"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN SYNONYMS FOR \"ASAP\"",
+                "members": [
+                    "BASSOON",
+                    "BELFAST",
+                    "NESQUICK",
+                    "THERMOSTAT"
+                ]
+            }
+        ]
     }
 ]
