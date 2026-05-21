@@ -49172,5 +49172,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1070,
+        "date": "2026-05-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KINDS OF PIES",
+                "members": [
+                    "CHESS",
+                    "PECAN",
+                    "PUMPKIN",
+                    "SHOOFLY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS ASSOCIATED WITH BUTTS",
+                "members": [
+                    "CABOOSE",
+                    "CAN",
+                    "MOON",
+                    "PEACH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TENNIS SCORING TERMS",
+                "members": [
+                    "ADVANTAGE",
+                    "DEUCE",
+                    "FORTY",
+                    "LOVE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ MUSTARD",
+                "members": [
+                    "COLONEL",
+                    "HONEY",
+                    "HOT",
+                    "YELLOW"
+                ]
+            }
+        ]
     }
 ]
