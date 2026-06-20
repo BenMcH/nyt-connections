@@ -50552,5 +50552,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1100,
+        "date": "2026-06-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FEATURING SILENT AND PRONOUNCED \"K\"S",
+                "members": [
+                    "JACKKNIFE",
+                    "KNAPSACK",
+                    "KNICKS",
+                    "KNOCK-KNOCK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ENDORSE",
+                "members": [
+                    "BACK",
+                    "BOLSTER",
+                    "CHAMPION",
+                    "SUPPORT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF CHAIRS",
+                "members": [
+                    "BEANBAG",
+                    "RECLINER",
+                    "ROCKER",
+                    "STOOL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS REPEATED IN HIT SONG TITLES",
+                "members": [
+                    "JUMPIN'",
+                    "LOUIE",
+                    "NEW YORK",
+                    "REBEL"
+                ]
+            }
+        ]
     }
 ]
