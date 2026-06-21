@@ -50598,5 +50598,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1101,
+        "date": "2026-06-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PRECIPITATION",
+                "members": [
+                    "DRIZZLE",
+                    "RAIN",
+                    "SHOWERS",
+                    "SPRINKLES"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BOWLS OVER",
+                "members": [
+                    "FLOORS",
+                    "ROCKS",
+                    "STUNS",
+                    "SURPRISES"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NBC SITCOMS",
+                "members": [
+                    "COMMUNITY",
+                    "FRIENDS",
+                    "SCRUBS",
+                    "WINGS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH KINDS OF INSULTS",
+                "members": [
+                    "BARBADOS",
+                    "DIGGITY",
+                    "DISSECT",
+                    "SLAPDASH"
+                ]
+            }
+        ]
     }
 ]
