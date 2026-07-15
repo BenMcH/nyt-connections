@@ -51656,5 +51656,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1124,
+        "date": "2026-07-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TERMS FOR THE LEGAL SYSTEM",
+                "members": [
+                    "BAR",
+                    "BENCH",
+                    "COURT",
+                    "TRIBUNAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS WITH LACES",
+                "members": [
+                    "BASEBALL GLOVE",
+                    "CORSET",
+                    "FOOTBALL",
+                    "SHOE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF SPORTS",
+                "members": [
+                    "EXTREME",
+                    "MOTOR",
+                    "RACKET",
+                    "WATER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \"ROOM\" TO INDICATE EXTRA SPACE",
+                "members": [
+                    "BREATHING",
+                    "ELBOW",
+                    "HEAD",
+                    "WIGGLE"
+                ]
+            }
+        ]
     }
 ]
