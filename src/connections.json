@@ -51840,5 +51840,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1128,
+        "date": "2026-07-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CIRCUIT COMPONENTS",
+                "members": [
+                    "BREAKER",
+                    "FUSE",
+                    "RELAY",
+                    "SWITCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DIGITAL COUPLING VERBS",
+                "members": [
+                    "CONNECT",
+                    "JOIN",
+                    "PAIR",
+                    "SYNC"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS TOILETS DO",
+                "members": [
+                    "DRAIN",
+                    "FLUSH",
+                    "REFILL",
+                    "SWIRL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ FACE EXPRESSIONS",
+                "members": [
+                    "GAME",
+                    "LONG",
+                    "POKER",
+                    "STRAIGHT"
+                ]
+            }
+        ]
     }
 ]
