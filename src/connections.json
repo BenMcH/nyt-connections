@@ -52024,5 +52024,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1132,
+        "date": "2026-07-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SPHERICAL THINGS",
+                "members": [
+                    "BASEBALL",
+                    "GLOBE",
+                    "MARBLE",
+                    "ORANGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "IN AN ANXIOUS STATE",
+                "members": [
+                    "EXCITED",
+                    "FEBRILE",
+                    "FRENETIC",
+                    "INTENSE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PARTS OF AN AIRPORT",
+                "members": [
+                    "APRON",
+                    "HANGAR",
+                    "RUNWAY",
+                    "TERMINAL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN GEOMETRY TERMS",
+                "members": [
+                    "APPOINT",
+                    "DEPLANE",
+                    "FELINE",
+                    "JANGLE"
+                ]
+            }
+        ]
     }
 ]
