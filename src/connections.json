@@ -52116,5 +52116,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1134,
+        "date": "2026-07-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SPANISH RELATIVES",
+                "members": [
+                    "ABUELA",
+                    "HIJO",
+                    "MADRE",
+                    "PRIMO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "START TO CRY, WITH \"UP\"",
+                "members": [
+                    "CHOKE",
+                    "MIST",
+                    "TEAR",
+                    "WELL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "AFRICAN CURRENCIES",
+                "members": [
+                    "KWANZA",
+                    "LEONE",
+                    "NAIRA",
+                    "RAND"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STRIP ___",
+                "members": [
+                    "CLUB",
+                    "MALL",
+                    "POKER",
+                    "STEAK"
+                ]
+            }
+        ]
     }
 ]
