@@ -52208,5 +52208,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1136,
+        "date": "2026-07-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GYMNASTICS APPARATUS",
+                "members": [
+                    "BEAM",
+                    "HORSE",
+                    "RINGS",
+                    "VAULT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LONG TAPERED THINGS",
+                "members": [
+                    "CARROT",
+                    "ICICLE",
+                    "KNITTING NEEDLE",
+                    "STALACTITE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF SHIFTS",
+                "members": [
+                    "DOPPLER",
+                    "GRAVEYARD",
+                    "PARADIGM",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ICONS ON A SHOPPING SITE",
+                "members": [
+                    "BELL",
+                    "CART",
+                    "HEART",
+                    "MAGNIFYING GLASS"
+                ]
+            }
+        ]
     }
 ]
