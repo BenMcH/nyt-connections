@@ -52622,5 +52622,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1145,
+        "date": "2026-08-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "NAVIGATE",
+                "members": [
+                    "DRIVE",
+                    "MANEUVER",
+                    "PILOT",
+                    "STEER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "JEANS BRANDS",
+                "members": [
+                    "DIESEL",
+                    "GAP",
+                    "LUCKY",
+                    "WRANGLER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HOUSE STYLES",
+                "members": [
+                    "CAPE COD",
+                    "MISSION",
+                    "RANCH",
+                    "TUDOR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \"STOCK\" MIGHT REFER TO",
+                "members": [
+                    "BROTH",
+                    "CATTLE",
+                    "INVESTMENT",
+                    "MERCHANDISE"
+                ]
+            }
+        ]
     }
 ]
