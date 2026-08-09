@@ -52806,5 +52806,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1149,
+        "date": "2026-08-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TAKE A DIFFERENT APPROACH",
+                "members": [
+                    "CHANGE TACK",
+                    "COURSE-CORRECT",
+                    "RECALIBRATE",
+                    "SHIFT GEARS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CLASSIC CHILDREN'S BOOKS",
+                "members": [
+                    "CAPS FOR SALE",
+                    "CORDUROY",
+                    "GOODNIGHT MOON",
+                    "MADELINE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MOVIE SUBGENRES",
+                "members": [
+                    "BUDDY COP",
+                    "NEO-NOIR",
+                    "SPACE OPERA",
+                    "SPAGHETTI WESTERN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS PEOPLE TRY TO GET OUT OF",
+                "members": [
+                    "BAD DREAM",
+                    "ESCAPE ROOM",
+                    "JURY DUTY",
+                    "LABYRINTH"
+                ]
+            }
+        ]
     }
 ]
