@@ -52898,5 +52898,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1151,
+        "date": "2026-08-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DOOMED",
+                "members": [
+                    "DONE",
+                    "SUNK",
+                    "THROUGH",
+                    "TOAST"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BASIC CABLE CHANNELS",
+                "members": [
+                    "BET",
+                    "BRAVO",
+                    "HISTORY",
+                    "USA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS IN AN AUCTIONEER'S CHANT",
+                "members": [
+                    "GOING",
+                    "ONCE",
+                    "SOLD",
+                    "TWICE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF FACIAL FEATURES",
+                "members": [
+                    "AYE",
+                    "HARE",
+                    "KNOWS",
+                    "TUNG"
+                ]
+            }
+        ]
     }
 ]
