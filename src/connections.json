@@ -53174,5 +53174,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1157,
+        "date": "2026-08-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "VIDEO CALL PLATFORMS",
+                "members": [
+                    "HUDDLE",
+                    "MEET",
+                    "TEAMS",
+                    "ZOOM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SPREADSHEET FEATURES",
+                "members": [
+                    "FORMULA",
+                    "FUNCTION",
+                    "MACRO",
+                    "SCRIPT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FIRST NAMES OF COUNTRY MUSIC LEGENDS",
+                "members": [
+                    "DOLLY",
+                    "JOHNNY",
+                    "PATSY",
+                    "WILLIE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH PETS",
+                "members": [
+                    "BIRDIE",
+                    "CATTLE",
+                    "DOGIE",
+                    "FISHEYE"
+                ]
+            }
+        ]
     }
 ]
