@@ -53220,5 +53220,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1158,
+        "date": "2026-08-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SEEN AT A MOVIE PREMIERE",
+                "members": [
+                    "LIMOUSINE",
+                    "PAPARAZZI",
+                    "RED CARPET",
+                    "VELVET ROPE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PJS",
+                "members": [
+                    "PETROLEUM JELLY",
+                    "POETIC JUSTICE",
+                    "PRACTICAL JOKE",
+                    "PRIVATE JET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS THAT ARE ORANGE",
+                "members": [
+                    "BASKETBALL",
+                    "ORANGUTAN",
+                    "SWEET POTATO",
+                    "TRAFFIC CONE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS THAT ARE GRITTY",
+                "members": [
+                    "COWBOY COFFEE",
+                    "FILM NOIR",
+                    "FLYERS MASCOT",
+                    "SANDPAPER"
+                ]
+            }
+        ]
     }
 ]
