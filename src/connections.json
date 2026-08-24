@@ -53496,5 +53496,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1164,
+        "date": "2026-08-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FISH",
+                "members": [
+                    "MULLET",
+                    "PIKE",
+                    "SOLE",
+                    "TANG"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PRINCIPAL",
+                "members": [
+                    "ARCH",
+                    "CHIEF",
+                    "MAIN",
+                    "PRIME"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PRO-WRESTLING LINGO",
+                "members": [
+                    "FACE",
+                    "HEEL",
+                    "JOBBER",
+                    "KAYFABE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LETTER HOMOPHONE PLUS TENNIS TERM",
+                "members": [
+                    "BESET",
+                    "DESERVE",
+                    "EX-LOVE",
+                    "EYELET"
+                ]
+            }
+        ]
     }
 ]
