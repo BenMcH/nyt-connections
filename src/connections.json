@@ -53634,5 +53634,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1167,
+        "date": "2026-08-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ELECTRIC THINGS",
+                "members": [
+                    "ELECTRIC EEL",
+                    "LIGHTNING",
+                    "LIVE WIRE",
+                    "PIKACHU"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MOVED TO TEARS",
+                "members": [
+                    "CHOKED UP",
+                    "EMOTIONAL",
+                    "MISTY",
+                    "OVERCOME"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SHADES OF GRAY",
+                "members": [
+                    "ASH",
+                    "DOVE",
+                    "PEWTER",
+                    "SLATE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MUSIC GENRE PLUS STARTING LETTER",
+                "members": [
+                    "BROCK",
+                    "NEMO",
+                    "SPUNK",
+                    "WRAP"
+                ]
+            }
+        ]
     }
 ]
