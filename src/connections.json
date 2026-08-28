@@ -53680,5 +53680,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1168,
+        "date": "2026-08-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BEDTIME PARTING WORDS",
+                "members": [
+                    "NIGHT",
+                    "REST EASY",
+                    "SLEEP TIGHT",
+                    "SWEET DREAMS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PALINDROMES",
+                "members": [
+                    "MOM",
+                    "NOON",
+                    "SIS",
+                    "TOP SPOT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MODERN ADD-ONS/COMBINING FORMS",
+                "members": [
+                    "BRO",
+                    "CODED",
+                    "ERA",
+                    "MAXXING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "TOP OF THE ___",
+                "members": [
+                    "HOUR",
+                    "LINE",
+                    "MORNING",
+                    "POPS"
+                ]
+            }
+        ]
     }
 ]
