@@ -53772,5 +53772,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1170,
+        "date": "2026-08-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EXERCISE FACILITIES",
+                "members": [
+                    "GYMNASIUM",
+                    "HEALTH CLUB",
+                    "REC CENTER",
+                    "YMCA"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WINE ACCESSORIES",
+                "members": [
+                    "AERATOR",
+                    "CORKSCREW",
+                    "DECANTER",
+                    "STOPPER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BRANDS WITH BUNNY RABBIT MASCOTS",
+                "members": [
+                    "CADBURY",
+                    "ENERGIZER",
+                    "PLAYBOY",
+                    "TRIX"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS ON AN OLD WEST WANTED POSTER",
+                "members": [
+                    "ALIAS",
+                    "OUTLAW",
+                    "REWARD",
+                    "WANTED"
+                ]
+            }
+        ]
     }
 ]
