@@ -53864,5 +53864,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1172,
+        "date": "2026-09-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "\"I PROMISE!\"",
+                "members": [
+                    "CROSS MY HEART",
+                    "FOR REAL",
+                    "ON GOD",
+                    "PINKY SWEAR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LONG, SKINNY THINGS OFTEN SEEN TOGETHER",
+                "members": [
+                    "ARROW",
+                    "GOLF CLUB",
+                    "PICK-UP STICK",
+                    "SPAGHETTO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PRIVATE INVESTIGATORS OF FICTION",
+                "members": [
+                    "HERCULE POIROT",
+                    "MIKE HAMMER",
+                    "SAM SPADE",
+                    "SHERLOCK HOLMES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH WORDS OF INTENTION",
+                "members": [
+                    "AIMEE MANN",
+                    "HOPE DIAMOND",
+                    "PLANETARIUM",
+                    "WISHY-WASHY"
+                ]
+            }
+        ]
     }
 ]
