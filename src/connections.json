@@ -53910,5 +53910,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1173,
+        "date": "2026-09-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FLABBERGAST",
+                "members": [
+                    "DAZZLE",
+                    "FLOOR",
+                    "STUN",
+                    "WOW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS IN A VIOLIN CASE",
+                "members": [
+                    "BOW",
+                    "MUTE",
+                    "ROSIN",
+                    "SHOULDER REST"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "___ DOGS (THAT ARE DOGS)",
+                "members": [
+                    "HUNTING",
+                    "RESCUE",
+                    "SAUSAGE",
+                    "SHEEP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ DOGS (THAT AREN'T DOGS)",
+                "members": [
+                    "CORN",
+                    "PRAIRIE",
+                    "SALTY",
+                    "TOP"
+                ]
+            }
+        ]
     }
 ]
