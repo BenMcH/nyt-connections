@@ -54048,5 +54048,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1176,
+        "date": "2026-09-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MOVE UNSTEADILY",
+                "members": [
+                    "SWAY",
+                    "TODDLE",
+                    "TOTTER",
+                    "WOBBLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BIRD ONOMATOPOEIA",
+                "members": [
+                    "COO",
+                    "GOBBLE",
+                    "HONK",
+                    "WARBLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "___HEAD",
+                "members": [
+                    "BOBBLE",
+                    "HAMMER",
+                    "JUG",
+                    "SLEEPY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DESSERTS MINUS LAST LETTER",
+                "members": [
+                    "COBBLE",
+                    "PI",
+                    "TAR",
+                    "TORT"
+                ]
+            }
+        ]
     }
 ]
