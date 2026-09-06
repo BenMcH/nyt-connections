@@ -54094,5 +54094,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1177,
+        "date": "2026-09-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "UNRESTRICTED PERMISSION",
+                "members": [
+                    "BLANK CHECK",
+                    "CARTE BLANCHE",
+                    "FREE REIGN",
+                    "FULL AUTHORITY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLACES TO INSERT SOMETHING INTO ON A COMPUTER",
+                "members": [
+                    "CARD SLOT",
+                    "HEADPHONE JACK",
+                    "OPTICAL DRIVE",
+                    "USB PORT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ABBREVIATIONS FOLLOWED BY REDUNDANT WORD",
+                "members": [
+                    "ATM MACHINE",
+                    "LCD DISPLAY",
+                    "PIN NUMBER",
+                    "UPC CODE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH WAYS TO CARVE A SURFACE",
+                "members": [
+                    "COURT SCRIBE",
+                    "DIRECTOR'S CUT",
+                    "PIZZA SLICE",
+                    "SAT SCORE"
+                ]
+            }
+        ]
     }
 ]
