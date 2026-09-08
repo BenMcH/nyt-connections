@@ -54186,5 +54186,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1179,
+        "date": "2026-09-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CLASSIC AMERICAN PERFORMANCE CARS",
+                "members": [
+                    "CORVETTE",
+                    "FIREBIRD",
+                    "MUSTANG",
+                    "VIPER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FEATURES OF A MIME COSTUME",
+                "members": [
+                    "BERET",
+                    "GLOVES",
+                    "STRIPES",
+                    "SUSPENDERS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "___ HEART",
+                "members": [
+                    "ARTICHOKE",
+                    "PURPLE",
+                    "SACRED",
+                    "TAKE TO"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CANDY BARS PLUS A LETTER",
+                "members": [
+                    "DOVES",
+                    "MARSH",
+                    "SKORT",
+                    "TWIXT"
+                ]
+            }
+        ]
     }
 ]
