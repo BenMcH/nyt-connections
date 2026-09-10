@@ -54278,5 +54278,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1181,
+        "date": "2026-09-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CHEMICAL ELEMENTS",
+                "members": [
+                    "ACTINIUM",
+                    "KRYPTON",
+                    "LEAD",
+                    "SULFUR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WHAT YOU MIGHT SEE STICKING OUT OF A WINDOW",
+                "members": [
+                    "AIR CONDITIONER",
+                    "CATIO",
+                    "CLOTHESLINE",
+                    "FLOWER BOX"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BRUCE SPRINGSTEEN CLASSICS",
+                "members": [
+                    "ATLANTIC CITY",
+                    "BADLANDS",
+                    "BORN TO RUN",
+                    "THUNDER ROAD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN SYNONYMS FOR \"HAPPENING NOW\"",
+                "members": [
+                    "ADULT CONTEMPORARY",
+                    "ALTERNATING CURRENT",
+                    "REPRESENT",
+                    "SEXTANT"
+                ]
+            }
+        ]
     }
 ]
