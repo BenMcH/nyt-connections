@@ -54416,5 +54416,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1184,
+        "date": "2026-09-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LACKING IN FIRMNESS",
+                "members": [
+                    "DROOPY",
+                    "FLACCID",
+                    "SAGGING",
+                    "SLACK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "U.S. PRESIDENTS",
+                "members": [
+                    "CLEVELAND",
+                    "GARFIELD",
+                    "GRANT",
+                    "MADISON"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS THAT SOUND LIKE TWO LETTERS",
+                "members": [
+                    "EMPTY",
+                    "EXCESS",
+                    "KEWPIE",
+                    "ODIE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN ELEVATED LANDFORMS",
+                "members": [
+                    "DOUBLESPEAK",
+                    "HEATHCLIFF",
+                    "PARAMOUNT",
+                    "PORRIDGE"
+                ]
+            }
+        ]
     }
 ]
