@@ -54738,5 +54738,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1191,
+        "date": "2026-09-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ROUND FLAT THINGS",
+                "members": [
+                    "BLU-RAY",
+                    "COASTER",
+                    "SAND DOLLAR",
+                    "TORTILLA"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ASSOCIATED WITH KENTUCKY",
+                "members": [
+                    "BLUEGRASS",
+                    "BOURBON",
+                    "DERBY",
+                    "FRIED CHICKEN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "VAMPIRE MOVIES",
+                "members": [
+                    "BLADE",
+                    "NEAR DARK",
+                    "SINNERS",
+                    "TWILIGHT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___BOARDS YOU RIDE ON",
+                "members": [
+                    "HOVER",
+                    "SKATE",
+                    "SNOW",
+                    "SURF"
+                ]
+            }
+        ]
     }
 ]
