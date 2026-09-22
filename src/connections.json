@@ -54830,5 +54830,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1193,
+        "date": "2026-09-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DEMONSTRATIVES",
+                "members": [
+                    "THAT",
+                    "THESE",
+                    "THIS",
+                    "THOSE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EMBELLISHMENT",
+                "members": [
+                    "ACCENT",
+                    "DETAIL",
+                    "FLOURISH",
+                    "TOUCH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "OPTIONS ON A MULTIPLE CHOICE SURVEY",
+                "members": [
+                    "AGREE",
+                    "DISAGREE",
+                    "NEUTRAL",
+                    "OTHER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BEVERAGES WITH ACUTE ACCENTS REMOVED",
+                "members": [
+                    "CAFE",
+                    "PATRON",
+                    "ROSE",
+                    "THE"
+                ]
+            }
+        ]
     }
 ]
