@@ -55244,5 +55244,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1202,
+        "date": "2026-10-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PUT",
+                "members": [
+                    "PLACE",
+                    "POSITION",
+                    "SITUATE",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DRESS SHIRT MEASUREMENTS",
+                "members": [
+                    "CHEST",
+                    "NECK",
+                    "SLEEVE",
+                    "WAIST"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "2000S INDIE ROCK BANDS, WITH \"THE\"",
+                "members": [
+                    "DECEMBERISTS",
+                    "NATIONAL",
+                    "SHINS",
+                    "WALKMEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF NYT PRINT PUZZLES",
+                "members": [
+                    "ACRO",
+                    "CROSS",
+                    "KEN",
+                    "SUD"
+                ]
+            }
+        ]
     }
 ]
