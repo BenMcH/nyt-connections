@@ -55428,5 +55428,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1206,
+        "date": "2026-10-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CALM",
+                "members": [
+                    "CONTENT",
+                    "PEACEFUL",
+                    "PLACID",
+                    "SERENE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ADJECTIVES FOR MATURE CONTENT",
+                "members": [
+                    "EXPLICIT",
+                    "GRAPHIC",
+                    "STRONG",
+                    "SUGGESTIVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF BOARDS",
+                "members": [
+                    "ADVISORY",
+                    "CHESS",
+                    "IRONING",
+                    "MESSAGE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN WAYS TO TEMPORARILY ACQUIRE",
+                "members": [
+                    "PARENT",
+                    "PLEASE",
+                    "SAPPHIRE",
+                    "SLOAN"
+                ]
+            }
+        ]
     }
 ]
