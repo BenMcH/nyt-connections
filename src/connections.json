@@ -55704,5 +55704,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1212,
+        "date": "2026-10-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PUT TO USE",
+                "members": [
+                    "APPLY",
+                    "HARNESS",
+                    "UTILIZE",
+                    "WIELD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MONTHLY BILLS",
+                "members": [
+                    "CABLE",
+                    "ELECTRICITY",
+                    "INTERNET",
+                    "PHONE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS YOU MIGHT FIND IN A GLOVE COMPARTMENT",
+                "members": [
+                    "GLOVES",
+                    "ICE SCRAPER",
+                    "MAP",
+                    "REGISTRATION"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN GAMBITS",
+                "members": [
+                    "EMPLOY",
+                    "PATRICK",
+                    "PERUSE",
+                    "SYNTACTIC"
+                ]
+            }
+        ]
     }
 ]
