@@ -55750,5 +55750,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1213,
+        "date": "2026-10-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STATUS",
+                "members": [
+                    "CONDITION",
+                    "SHAPE",
+                    "SITUATION",
+                    "STATE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TOLERATE",
+                "members": [
+                    "BEAR",
+                    "HANDLE",
+                    "STAND",
+                    "WEATHER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORD SHORTENINGS, OFTEN",
+                "members": [
+                    "ABBREVIATION",
+                    "CONTRACTION",
+                    "ELISION",
+                    "NICKNAME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS MADE USING U.S. POSTAL ABBREVIATIONS",
+                "members": [
+                    "ALKYLAMIDE",
+                    "CALAMARI",
+                    "MANDARIN",
+                    "MELAMINE"
+                ]
+            }
+        ]
     }
 ]
