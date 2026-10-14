@@ -55842,5 +55842,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1215,
+        "date": "2026-10-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HINT",
+                "members": [
+                    "FLICKER",
+                    "SUGGESTION",
+                    "TRACE",
+                    "WHIFF"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TENNIS SHOTS",
+                "members": [
+                    "SERVE",
+                    "SLICE",
+                    "SMASH",
+                    "VOLLEY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SUPERHEROES, WITH \"THE\"",
+                "members": [
+                    "FLASH",
+                    "HULK",
+                    "PUNISHER",
+                    "THING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH \"FEE, FI, FO, FUM\"",
+                "members": [
+                    "FEED",
+                    "FIERY",
+                    "FOMENT",
+                    "FUMBLE"
+                ]
+            }
+        ]
     }
 ]
