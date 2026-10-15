@@ -55888,5 +55888,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1216,
+        "date": "2026-10-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WAYS TO PRESERVE FOOD",
+                "members": [
+                    "CURE",
+                    "DRY",
+                    "PICKLE",
+                    "SMOKE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS YOU CAN SCORE IN SPORTS",
+                "members": [
+                    "BASKET",
+                    "GOAL",
+                    "RUN",
+                    "TOUCHDOWN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LOWEST PART",
+                "members": [
+                    "BASE",
+                    "BOTTOM",
+                    "FOOT",
+                    "FOUNDATION"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LOW LANDFORMS WITH A LETTER CHANGED",
+                "members": [
+                    "CANNON",
+                    "FORGE",
+                    "RACINE",
+                    "VOLLEY"
+                ]
+            }
+        ]
     }
 ]
