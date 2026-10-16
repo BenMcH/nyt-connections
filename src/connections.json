@@ -55934,5 +55934,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1217,
+        "date": "2026-10-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SURFACE IMPERFECTIONS",
+                "members": [
+                    "CHIP",
+                    "MARK",
+                    "NICK",
+                    "SCRATCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LANDLOCKED COUNTRIES",
+                "members": [
+                    "CHAD",
+                    "HUNGARY",
+                    "LAOS",
+                    "PARAGUAY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "EUROPEAN COUNTRIES MINUS A LETTER",
+                "members": [
+                    "BULGARI",
+                    "CYRUS",
+                    "HUNGRY",
+                    "SPAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH WORDS FOR \"STYLISH\"",
+                "members": [
+                    "CHICKEN",
+                    "COOLIDGE",
+                    "HIPPO",
+                    "SMARTIES"
+                ]
+            }
+        ]
     }
 ]
