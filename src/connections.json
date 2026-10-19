@@ -56072,5 +56072,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1220,
+        "date": "2026-10-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SEETHE",
+                "members": [
+                    "BOIL",
+                    "FUME",
+                    "RAVE",
+                    "STEAM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ALL TALK",
+                "members": [
+                    "BLATHER",
+                    "GAS",
+                    "HOT AIR",
+                    "WIND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "\"MC\" THINGS AT MCDONALD'S",
+                "members": [
+                    "FLURRY",
+                    "MUFFIN",
+                    "NUGGETS",
+                    "RIB"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN BIRDS",
+                "members": [
+                    "ALIBIS",
+                    "BALLOON",
+                    "ESCROW",
+                    "MOHAWK"
+                ]
+            }
+        ]
     }
 ]
