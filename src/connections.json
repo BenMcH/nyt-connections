@@ -56118,5 +56118,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1221,
+        "date": "2026-10-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FINISH",
+                "members": [
+                    "CLOSE",
+                    "END",
+                    "STOP",
+                    "WRAP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LACKEY",
+                "members": [
+                    "MINION",
+                    "POODLE",
+                    "PUPPET",
+                    "STOOGE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MUSTACHES",
+                "members": [
+                    "CHEVRON",
+                    "HORSESHOE",
+                    "PENCIL",
+                    "WALRUS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF DISNEY CHARACTERS",
+                "members": [
+                    "ARIAL",
+                    "BELL",
+                    "DOCK",
+                    "MINI"
+                ]
+            }
+        ]
     }
 ]
