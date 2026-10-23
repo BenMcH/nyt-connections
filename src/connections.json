@@ -56256,5 +56256,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1224,
+        "date": "2026-10-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FORTHRIGHT",
+                "members": [
+                    "DIRECT",
+                    "FRANK",
+                    "OPEN",
+                    "VOCAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS YOU INSTALL ON A COMPUTER",
+                "members": [
+                    "DRIVER",
+                    "EXTENSION",
+                    "PLUGIN",
+                    "UPDATE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "QUANTITIES IN A FORMULA FOR POWER",
+                "members": [
+                    "DISTANCE",
+                    "FORCE",
+                    "POWER",
+                    "TIME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ TAP",
+                "members": [
+                    "DOUBLE",
+                    "LOVE",
+                    "PHONE",
+                    "SPINAL"
+                ]
+            }
+        ]
     }
 ]
