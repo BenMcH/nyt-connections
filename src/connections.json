@@ -56394,5 +56394,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1227,
+        "date": "2026-10-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RESPONSES TO \"HOW ARE YOU?\"",
+                "members": [
+                    "CHILLING",
+                    "MANAGING",
+                    "NOT BAD",
+                    "SAME OLD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF MATS",
+                "members": [
+                    "PRAYER",
+                    "WELCOME",
+                    "WRESTLING",
+                    "YOGA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "AKC DOG BREED GROUPS",
+                "members": [
+                    "HERDING",
+                    "HOUND",
+                    "SPORTING",
+                    "TOY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HORROR MOVIES WITH LAST LETTER CHANGED",
+                "members": [
+                    "HALLOWEEK",
+                    "HOSTED",
+                    "JAWN",
+                    "PSYCHS"
+                ]
+            }
+        ]
     }
 ]
