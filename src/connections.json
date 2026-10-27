@@ -56440,5 +56440,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1228,
+        "date": "2026-10-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MESS (WITH)",
+                "members": [
+                    "FIDDLE",
+                    "MEDDLE",
+                    "TINKER",
+                    "TRIFLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTS OF THE EAR",
+                "members": [
+                    "ANVIL",
+                    "CANAL",
+                    "DRUM",
+                    "STIRRUP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "___ BELL",
+                "members": [
+                    "DIVING",
+                    "JINGLE",
+                    "LIBERTY",
+                    "TACO"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BELL ___",
+                "members": [
+                    "BOTTOMS",
+                    "JAR",
+                    "PEPPER",
+                    "TOWER"
+                ]
+            }
+        ]
     }
 ]
