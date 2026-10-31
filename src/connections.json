@@ -56624,5 +56624,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1232,
+        "date": "2026-10-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WORDS MEANING GOOD THAT SOUND BAD",
+                "members": [
+                    "GNARLY",
+                    "KILLER",
+                    "SICK",
+                    "WICKED"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MARTINI SPECIFICATIONS",
+                "members": [
+                    "DIRTY",
+                    "DRY",
+                    "SHAKEN",
+                    "UP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS WITH STRINGS",
+                "members": [
+                    "GUITAR",
+                    "MARIONETTE",
+                    "TASSEL",
+                    "TENNIS RACKET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH DOG COMMANDS",
+                "members": [
+                    "DOWNFALL",
+                    "SHAKESPEARE",
+                    "SITCOM",
+                    "STAYCATION"
+                ]
+            }
+        ]
     }
 ]
