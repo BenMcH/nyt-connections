@@ -56670,5 +56670,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1233,
+        "date": "2026-11-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KINDS OF TEETH",
+                "members": [
+                    "BICUSPID",
+                    "CANINE",
+                    "INCISOR",
+                    "MOLAR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF LOVE",
+                "members": [
+                    "BROTHERLY",
+                    "PUPPY",
+                    "SELF",
+                    "UNREQUITED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ENTHUSIAST",
+                "members": [
+                    "FIEND",
+                    "HEAD",
+                    "HOUND",
+                    "LOVER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SYNONYMS FOR \"SOAKED\" WITH FIRST LETTER CHANGED",
+                "members": [
+                    "DOGGY",
+                    "MATURATED",
+                    "TRENCHED",
+                    "TRIPPING"
+                ]
+            }
+        ]
     }
 ]
