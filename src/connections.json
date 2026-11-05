@@ -56854,5 +56854,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1237,
+        "date": "2026-11-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KINDS OF HEELS",
+                "members": [
+                    "KITTEN",
+                    "PLATFORM",
+                    "SPIKE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FLOWERS",
+                "members": [
+                    "ANEMONE",
+                    "LOTUS",
+                    "NARCISSUS",
+                    "ROSE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TEARDROP-SHAPED THINGS",
+                "members": [
+                    "PEAR",
+                    "RAINDROP",
+                    "SPEEDBAG",
+                    "UVULA"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LIQUORS WITH LAST LETTERS CHANGED",
+                "members": [
+                    "BRANDO",
+                    "GIG",
+                    "RUN",
+                    "WHISKER"
+                ]
+            }
+        ]
     }
 ]
