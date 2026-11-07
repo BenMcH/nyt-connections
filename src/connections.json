@@ -56946,5 +56946,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1239,
+        "date": "2026-11-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PIRATE'S PLUNDER",
+                "members": [
+                    "BOOTY",
+                    "BOUNTY",
+                    "SPOILS",
+                    "TREASURE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF SHIRTS",
+                "members": [
+                    "HENLEY",
+                    "POLO",
+                    "RAGLAN",
+                    "RINGER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FIRST WORDS OF U.S. STATE NAMES",
+                "members": [
+                    "NEW",
+                    "NORTH",
+                    "RHODE",
+                    "SOUTH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDS OF STORM TYPES",
+                "members": [
+                    "CANE",
+                    "CLONE",
+                    "EASTER",
+                    "SOON"
+                ]
+            }
+        ]
     }
 ]
