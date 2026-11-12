@@ -57176,5 +57176,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1244,
+        "date": "2026-11-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "\"GADZOOKS!\"",
+                "members": [
+                    "GOOD HEAVENS",
+                    "GREAT SCOTT",
+                    "HOLY SMOKES",
+                    "JIMINY CRICKET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STARTING WITH VARIATIONS",
+                "members": [
+                    "CHANGE PURSE",
+                    "FLUX CAPACITOR",
+                    "SHIFT DRESS",
+                    "SWING SET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ENDING IN WAYS TO COOK THINGS",
+                "members": [
+                    "ARCTIC CHAR",
+                    "COMEDY ROAST",
+                    "DOC BROWN",
+                    "YOU'RE TOAST"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH BEST PICTURE OSCAR WINNERS",
+                "members": [
+                    "GLADIATOR SANDALS",
+                    "MARTY MCFLY",
+                    "MOONLIGHT SONATA",
+                    "ROCKY ROAD"
+                ]
+            }
+        ]
     }
 ]
