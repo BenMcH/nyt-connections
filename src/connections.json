@@ -57222,5 +57222,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1245,
+        "date": "2026-11-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "USE THE INTERNET",
+                "members": [
+                    "BROWSE",
+                    "SCROLL",
+                    "SEARCH",
+                    "SURF"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MEDIA ATTENTION",
+                "members": [
+                    "COVERAGE",
+                    "EXPOSURE",
+                    "PRESS",
+                    "PUBLICITY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS THAT ARE TOWED",
+                "members": [
+                    "BARGE",
+                    "GLIDER",
+                    "TRAILER",
+                    "WATER SKIER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BRAIN ___",
+                "members": [
+                    "FREEZE",
+                    "TEASER",
+                    "TRUST",
+                    "WAVES"
+                ]
+            }
+        ]
     }
 ]
