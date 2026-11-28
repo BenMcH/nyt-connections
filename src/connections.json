@@ -57912,5 +57912,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1260,
+        "date": "2026-11-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MILD OATHS",
+                "members": [
+                    "BLAST",
+                    "DARN",
+                    "FUDGE",
+                    "NUTS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EDGE",
+                "members": [
+                    "BORDER",
+                    "HEM",
+                    "RIM",
+                    "SKIRT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SYMBOLS ON A SLOT MACHINE",
+                "members": [
+                    "BAR",
+                    "BELL",
+                    "CHERRY",
+                    "SEVEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SOUL ___",
+                "members": [
+                    "FOOD",
+                    "MATE",
+                    "MUSIC",
+                    "PATCH"
+                ]
+            }
+        ]
     }
 ]
